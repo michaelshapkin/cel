@@ -4,7 +4,7 @@
 ---
 ### 🎥 CEL / FAR Demo
 
-https://raw.githubusercontent.com/michaelshapkin/cel/main/assets/far-demo.mov
+https://github.com/michaelshapkin/cel/blob/main/assets/far-demo.mov
 ---
 
 
