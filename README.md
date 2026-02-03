@@ -2,6 +2,12 @@
 ## FAR Benchmark / Dashboard (Funds at Risk) – Blockchain Networks
 
 ---
+### 🎥 CEL / FAR Demo
+
+https://github.com/michaelshapkin/cel/blob/main/far-demo.mov
+
+---
+
 
 ### 🛡️ The Mission
 **CEL** is a next-generation security infrastructure designed to transform blockchain security from periodic audits into a **continuous, autonomous, and strategic execution layer**. By leveraging cybersecurity-specialized AI agents, CEL protects smart contracts and on-chain capital at machine speed.
