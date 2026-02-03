@@ -2,7 +2,7 @@
 ## FAR Benchmark / Dashboard (Funds at Risk) – Blockchain Networks
 
 ---
-### 🎥 FAR Demo
+### 🎥 CEL / FAR Demo
 
 ![CEL FAR Dashboard](assets/far-demo.gif)
 ---
