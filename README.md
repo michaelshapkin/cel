@@ -52,7 +52,7 @@ Using **CAI PRO** and the **alias2** model family, this approach introduces a fu
 - **Strategic Capability:** **alias2** solves **76% of complex cybersecurity challenges**, outperforming GPT‑5 (~33%).
 - **Game‑Theoretic Reasoning:** Via **G‑CTR (Generative Cut‑the‑Rope)**, agents compute **Nash‑equilibrium attack/defense strategies**, doubling success rates and reducing behavioral variance by **5.2×**.
 
-> Most security tools *observe* risk. CAI agents *play the game*.
+> Most security tools *observe* risk. CAI PRO agents *play the game*.
 
 ---
 
@@ -60,7 +60,7 @@ Using **CAI PRO** and the **alias2** model family, this approach introduces a fu
 
 This repository represents the synthesis of:
 - **Anthropic’s economic exploit research** (AI as an attacker)
-- **CAI / alias2 architecture** (AI as a strategic defender)
+- **CAI PRO / alias2 architecture** (AI as a strategic defender)
 
 #### 1️⃣ CEL – Continuous Execution Layer
 **CEL** is a non-stop, autonomous security execution pipeline.
